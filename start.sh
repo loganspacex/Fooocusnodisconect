@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ ! -d "Fooocus" ]
 then
-  git clone https://github.com/MoonRide303/Fooocus-MRE.git
+  git clone https://github.com/wandaweb/Fooocus-Sagemaker-Studio-Lab.git
   #git clone --depth 1 --branch V2 https://github.com/MoonRide303/Fooocus-MRE.git
   # Create the config file pointing the checkpoints to checkpoints-real-folder
 fi
